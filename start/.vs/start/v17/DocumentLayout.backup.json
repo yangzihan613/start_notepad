@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yangz\\OneDrive\\Desktop\\start_game\\start\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\start_notepad\\start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44FDDBE3-2E8B-41CC-B4FB-BB701EE36018}|start\\start.vcxproj|C:\\Users\\yangz\\OneDrive\\Desktop\\start_game\\start\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{44FDDBE3-2E8B-41CC-B4FB-BB701EE36018}|start\\start.vcxproj|C:\\Users\\user\\Desktop\\start_notepad\\start\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44FDDBE3-2E8B-41CC-B4FB-BB701EE36018}|start\\start.vcxproj|solutionrelative:source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\yangz\\OneDrive\\Desktop\\start_game\\start\\source\\main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\start_notepad\\start\\source\\main.c",
               "RelativeDocumentMoniker": "source\\main.c",
-              "ToolTip": "C:\\Users\\yangz\\OneDrive\\Desktop\\start_game\\start\\source\\main.c*",
-              "RelativeToolTip": "source\\main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\start_notepad\\start\\source\\main.c",
+              "RelativeToolTip": "source\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-01-13T12:33:31.206Z",
               "EditorCaption": ""
